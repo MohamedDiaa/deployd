@@ -42,6 +42,7 @@ The macosx installer is deprecated. The recommended way is now npm (`npm install
 ## install from source
 
 	git clone https://github.com/deployd/deployd.git
+	cd deployd
 	npm install
 	npm link
 
